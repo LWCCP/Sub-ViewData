@@ -1,0 +1,157 @@
+[
+  {
+    "snapshot_url": "https://web.archive.org/web/20150227213228/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2014-03-31",
+    "subscribers": 12007706,
+    "views": 1744267663,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20150227213228/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2014-06-30",
+    "subscribers": 12444172,
+    "views": 1829371386,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20150227213228/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2014-09-30",
+    "subscribers": 13002590,
+    "views": 1924142080,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20150227213228/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2014-12-31",
+    "subscribers": 13501730,
+    "views": 2022741002,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20160125110730/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2015-03-31",
+    "subscribers": 14051027,
+    "views": 2127676686,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20160125110730/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2015-06-30",
+    "subscribers": 14710839,
+    "views": 2253320299,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20160125110730/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2015-09-30",
+    "subscribers": 15311670,
+    "views": 2370026315,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20171223110659/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2016-03-31",
+    "subscribers": 16650022,
+    "views": 2646029207,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20171223110659/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2016-06-30",
+    "subscribers": 17393386,
+    "views": 2798323757,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20171223110659/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2016-09-30",
+    "subscribers": 18244016,
+    "views": 2952097656,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20171223110659/http://socialblade.com/youtube/user/nigahiga/monthly",
+    "channel_name": "nigahiga",
+    "quarter_end_date": "2016-12-31",
+    "subscribers": 18990175,
+    "views": 3126164676,
+    "source": "monthly_dygraph_csv",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20110424121352/http://socialblade.com:80/youtube/user/nigahiga",
+    "channel_name": "nigahiga",
+    "year": 2011,
+    "subscribers": 3437932,
+    "views": 733477480,
+    "uploads": 0,
+    "country": "Unknown",
+    "date_created": "Unknown",
+    "snapshot_date": "Unknown",
+    "subscriber_rank": "1",
+    "view_rank": "23",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20110710000912/http://socialblade.com:80/youtube/user/nigahiga",
+    "channel_name": "nigahiga",
+    "year": 2011,
+    "subscribers": 3927457,
+    "views": 857028001,
+    "uploads": 0,
+    "country": "Unknown",
+    "date_created": "Unknown",
+    "snapshot_date": "Unknown",
+    "subscriber_rank": "2",
+    "view_rank": "20",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20111003145903/http://socialblade.com:80/youtube/user/nigahiga",
+    "channel_name": "nigahiga",
+    "year": 2011,
+    "subscribers": 4477071,
+    "views": 970459990,
+    "uploads": 0,
+    "country": "Unknown",
+    "date_created": "Unknown",
+    "snapshot_date": "Unknown",
+    "subscriber_rank": "2",
+    "view_rank": "20",
+    "scraping_status": "success"
+  },
+  {
+    "snapshot_url": "https://web.archive.org/web/20120102235044/http://socialblade.com:80/youtube/user/nigahiga",
+    "channel_name": "nigahiga",
+    "year": 2011,
+    "subscribers": 4930616,
+    "views": 1059132502,
+    "uploads": 0,
+    "country": "Unknown",
+    "date_created": "Unknown",
+    "snapshot_date": "Unknown",
+    "subscriber_rank": "2",
+    "view_rank": "23",
+    "scraping_status": "success"
+  }
+]
