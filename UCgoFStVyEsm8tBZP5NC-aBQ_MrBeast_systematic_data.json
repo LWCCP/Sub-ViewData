@@ -1,0 +1,79 @@
+{
+  "channel_id": "UCgoFStVyEsm8tBZP5NC-aBQ",
+  "canonical_name": "MrBeast",
+  "scraped_at": "2025-07-02T17:26:33.568562",
+  "quarters": [
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2021,
+      "quarter_end_date": "2021-03-31",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2021,
+      "quarter_end_date": "2021-06-30",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2021,
+      "quarter_end_date": "2021-09-30",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2021,
+      "quarter_end_date": "2021-12-31",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2022,
+      "quarter_end_date": "2022-03-31",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2022,
+      "quarter_end_date": "2022-06-30",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2022,
+      "quarter_end_date": "2022-09-30",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    },
+    {
+      "snapshot_url": "https://web.archive.org/web/20131101063022/https://socialblade.com/youtube/user/https:/monthly",
+      "channel_name": "https:",
+      "year": 2022,
+      "quarter_end_date": "2022-12-31",
+      "subscribers": null,
+      "views": null,
+      "scraping_status": "failed"
+    }
+  ]
+}
